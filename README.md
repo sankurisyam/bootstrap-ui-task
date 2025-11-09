@@ -8,8 +8,8 @@
 
 ## 🎯 Objective
 The goal of this project is to explore **Bootstrap 5** components and examples, and design a set of **clean, responsive, and modern web pages** using them.  
-The focus was on visual appeal, responsiveness, and proper use of Bootstrap classes — not just copy-pasting code from examples.
-
+The focus was on visual appeal, responsiveness, and proper use of Bootstrap classes 
+used some of the snippets in the task
 ---
 
 ##  Project Overview
